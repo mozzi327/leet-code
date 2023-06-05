@@ -1,9 +1,9 @@
-package Q21_valid_parentheses;
+package Q20_valid_parentheses;
 
 import java.util.EmptyStackException;
 import java.util.Stack;
 
-public class Solution_Q21 {
+public class Solution_Q20 {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for(int i = 0; i < s.length(); i++) {
