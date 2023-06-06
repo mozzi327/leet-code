@@ -1,4 +1,4 @@
-package Q21_merge_two_sorted_lists;
+package I_easy.Q21_merge_two_sorted_lists;
 
 class ListNode {
     int val;

@@ -1,4 +1,4 @@
-package Q20_valid_parentheses;
+package I_easy.Q20_valid_parentheses;
 
 import java.util.EmptyStackException;
 import java.util.Stack;

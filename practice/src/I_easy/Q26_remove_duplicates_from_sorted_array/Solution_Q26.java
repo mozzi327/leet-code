@@ -1,4 +1,4 @@
-package Q26_remove_duplicates_from_sorted_array;
+package I_easy.Q26_remove_duplicates_from_sorted_array;
 
 public class Solution_Q26 {
     public int removeDuplicates(int[] nums) {

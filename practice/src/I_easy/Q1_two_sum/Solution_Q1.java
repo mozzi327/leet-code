@@ -1,4 +1,4 @@
-package Q1_two_sum;
+package I_easy.Q1_two_sum;
 
 public class Solution_Q1 {
     public int[] twoSum(int[] nums, int target) {
